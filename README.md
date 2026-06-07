@@ -1,6 +1,7 @@
 # Struct Clone
 
 Gabriel de Castro Dias - 211055432
+
 Henrique - 261039240
 
 Uma recriação da página inicial da Struct, desenvolvida para praticar e consolidar os fundamentos do desenvolvimento web utilizando TypeScript, React e Tailwind.
